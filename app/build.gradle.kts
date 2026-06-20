@@ -99,7 +99,7 @@ dependencies {
 
     // ML Kit
     implementation(libs.mlkit.text.recognition)
-    implementation(libs.mlkit.object.detection)
+    implementation(libs.mlkit.obj.detection)
 
     // Camera
     implementation(libs.camera.core)
